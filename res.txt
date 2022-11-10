@@ -1,0 +1,20 @@
+buat sebuah file txt dengan nama responsi_nama.txt, 
+isikan nama kalian dan salah satu anggota keluarga kalian, 
+hitung jumlah karakter yang ada di setiap nama tanpa spasi.
+hasil dari perhitungan jumlah karakter pada masing masing nama digunakan sebagai input
+untuk konversi bilangan biner,
+setiap hasil konversi bilangan biner
+dihitung jumlah angka nol dan satu nya
+untuk perempuan jumlah angka nol dikali jumlah angka 1
+untuk laki-laki (jumlah angka nol dibagi jumlah angka 1) pangkat 2
+
+hasil dari perkalian atau pembagian tersebut di input dalam file txt baru dengan nama
+hasil_responsi.txt
+
+ouput contoh
+Milla Della Puspita
+hasil 45
+
+Della Anggeraini
+hasil 76
+
